@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    float: left;
+    padding-left: 20px;
+}
+.navbar{
+    background-color: rgb(38, 93, 212);
+    height: 70px;
+}
+.nav-link{
+    color:black;
+}
+.nav{
+    float: right;
+    padding-right: 100px;
+}
+.nav li a{
+    padding: 22px;
+    height: 70px;
+}
+.nav-item:hover a{
+    background-color: blanchedalmond;
+}
